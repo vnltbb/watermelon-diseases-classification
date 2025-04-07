@@ -11,3 +11,4 @@
 - 사용한 데이터 셋 [sujaykapadnis/watermelon-disease-recognition-dataset] https://www.kaggle.com/datasets/sujaykapadnis/watermelon-disease-recognition-dataset 
 
 # project log
+25/04/07 수정하거나 살펴볼 코드 라인에 '⭐️'표시, model save 파트 통합
