@@ -1,0 +1,12 @@
+# 수박 병해 분류 모델 만들기
+- 프로젝트 소스 파일 : [Plant Village disease Classification | Acc: 99.6%] https://www.kaggle.com/code/abdallahwagih/plant-village-disease-classification-acc-99-6 
+- 소스 파일을 목적에 맞게 편집해서 이용
+- .gitignore의 마지막 부분에 데이터셋 폴더 경로를 상황에 맞게 수정해서 적용하기!
+
+## 패키지 모듈 설치하기 
+- mac M1 / M2 유저는 첫 번째 `pip install tensorflow==2.9.1`을 `pip install tensorflow-macos==2.9.1`로 바꿔서 적용하기 
+
+## 데이터 셋 불러오기
+- 사용한 데이터 셋 [sujaykapadnis/watermelon-disease-recognition-dataset] https://www.kaggle.com/datasets/sujaykapadnis/watermelon-disease-recognition-dataset 
+
+# project log
